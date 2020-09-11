@@ -15,7 +15,7 @@ Upload images from your drive &mdash; and float them around your browser window!
 
 # Demo
 
-You can find the current v_0.0.1 version here at [Floaters](https://floaters-001.netlify.app/) (on Netlify)
+You can find the current v_0.0.1 version here at [Floaters-001](https://floaters-001.netlify.app/) (on Netlify)
 
 # Credits
 
