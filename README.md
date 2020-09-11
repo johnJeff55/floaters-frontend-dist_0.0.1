@@ -13,6 +13,10 @@ Upload images from your drive &mdash; and float them around your browser window!
   * transparency
   * => See in-app *__Help tab: How to edit__* for details
 
+# Demo
+
+You can find the current v_0.0.1 version here at [Floaters](https://floaters-001.netlify.app/) (on Netlify)
+
 # Credits
 
 Parcel bundling based on Brad Traversy's [Vanilla JS Parcel Boilerplate](https://github.com/bradtraversy/vanilla-parcel-boilerplate)<sup>(1)</sup> as presented in his YouTube tutorial [Easy Frontend JS Workflow With No Framework](https://www.youtube.com/watch?v=8rD9amRSOQY). A great way to get a handle on Parcel bundling!
